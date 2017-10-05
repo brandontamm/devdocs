@@ -26,7 +26,7 @@ To get the {{site.data.var.ee}} metapackage:
 
 	The following error indicates your tokens are incorrect:
 
-		  Could not find package magento/project-enterprise-edition with version 2.0.0
+		  Could not find package magento/project-enterprise-edition with version 2.2.0
 
 	This command creates the project and downloads dependencies for it. The project is in a directory named `<installation directory name>` if you provided the parameter or `project-enterprise-edition` if you did not.
 
